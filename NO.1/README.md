@@ -368,3 +368,10 @@ config.module
 
 module.exports = config.toConfig();
 ```
+
+至此学习了
+
+- webpack 基础配置
+- 将 css 通过 css-loader 打包进 js 中
+- 解析 bundle 如何加载模块的
+- webpack 如何实现的动态加载模块
